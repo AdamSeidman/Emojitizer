@@ -1,0 +1,23 @@
+{
+  "name": "emojitizer-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that will react to messages with corresponding emojis.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamSeidman/Emojitizer.git"
+  },
+  "author": "Adam Seidman",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AdamSeidman/Emojitizer/issues"
+  },
+  "homepage": "https://github.com/AdamSeidman/Emojitizer#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "emoji-dictionary": "^1.0.11"
+  }
+}
